@@ -76,6 +76,7 @@ while True:
         tags = loadTags()
         print('Total de tags cargados: ' + str(lt.size(tags)))
     # TO-DO: Modificaciones para completar el laboratorio 1.
+    x = "frank es bonito"
 
     else:
         sys.exit(0)
